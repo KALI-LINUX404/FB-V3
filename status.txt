@@ -2,8 +2,8 @@
 >2. IPAD & NoRecoil From Bypass Maybe Ban 10 Year <
 >3. Anti Cheat Not Stable Push Conquer Fake Account <
 
-Global  = Play New Account 24h
-Korea   = Play New Account Push Conquer  
-Taiwan  = Play New Account Push Conquer
+Global   = Play New Account 24h
+Korea     = Play New Account Push Conquer  
+Taiwan   = Play New Account Push Conquer
 Vietnam = Play New Account Push Conquer
-BGMI    = Play New Account Push Conquer
+BGMI      = Play New Account Push Conquer
