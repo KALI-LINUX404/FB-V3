@@ -4,7 +4,7 @@
 >4. Fix Crash Mod Skin & Mod Skin Backpack Deleted <
 
 
-Global = Play New Account Risk
+Global = Play New Account Push Conquer
 Korea = Play Main Account Push Conquer  
 Taiwan = Play Main Account Push Conquer
 Vietnam = Play Main Account Push Conquer
