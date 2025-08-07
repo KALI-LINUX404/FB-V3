@@ -4,8 +4,8 @@
 >4. Fix Crash Mod Skin & Mod Skin Backpack Deleted <
 
 
-Global = Play Fake Account
-Korea = Play Fake Account 
-Taiwan = Play Fake Account
-Vietnam = Play Fake Account
+Global = Play Fake Account 24H
+Korea = Play Fake Account 24H
+Taiwan = Play Fake Account 24H
+Vietnam = Play Fake Account 24H
 BGMI = Play Main Account Push Conquer
