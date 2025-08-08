@@ -1,11 +1,11 @@
 >1. Avoid Magic & Aimbot Very Dangerous <
 >2. IPAD & NoRecoil From Bypass Maybe Ban 10 Year <
->3. Anti Cheat Not Stable Push Conquer New Account <
+>3. Anti Cheat Stable Push Conquer New Account <
 >4. Fix Crash Mod Skin & Mod Skin Backpack Deleted <
 
 
-Global = Play Fake Account 24H
-Korea = Play Fake Account 24H
-Taiwan = Play Fake Account 24H
-Vietnam = Play Fake Account 24H
+Global = Play Fake Account Push Conquer
+Korea = Play Main Account Push Conquer
+Taiwan = Play Main Account Push Conquer
+Vietnam = Play Main Account Push Conquer
 BGMI = Play Main Account Push Conquer
