@@ -5,7 +5,7 @@
 
 
 Global = Play Test Account
-Korea = Play Test Account
-Taiwan = Play Test Account
+Korea = Play Fake Account Push Conquer
+Taiwan = Play Fake Account Push Conquer
 Vietnam = Play Test Account
-BGMI = Play Main Account Push Conquer
+BGMI = Play Fake Account Push Conquer
