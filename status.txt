@@ -1,11 +1,12 @@
->1. Avoid Magic & Aimbot Very Dangerous <
->2. IPAD & NoRecoil From Bypass Maybe Ban 10 Year <
->3. Anti Cheat Stable Push Conquer New Account <
->4. Fix Crash Mod Skin & Mod Skin Backpack Deleted <
+> 1.Anti Cheat Not Stable Push Conquer Fake Account <
+> 2.Must Install Apk + Obb To Avoid 10m And Crash <
 
+Global = Play New Account
 
-Global = Play Test Account
-Korea = Play Test Account
-Taiwan = Play Test Account
-Vietnam = Play Test Account
-BGMI = Play Fake Account Push Conquer
+Korea = Play New Account
+
+Taiwan = Play New Account
+
+Vietnam = Play New Account
+
+BGMI = Play New Account
