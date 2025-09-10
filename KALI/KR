@@ -13,8 +13,9 @@ NOHEAD = false
 NORECOIL = false
 device = false
 SLOWMOW = false
-IPAD = true
+IPAD = false
 
 SRCUP = false
+
 
 
