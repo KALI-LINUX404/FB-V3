@@ -1,12 +1,8 @@
 > 1.Anti Cheat Not Stable Push Conquer Fake Account <
-> 2.Must Install Apk + Obb To Avoid 10m And Crash <
+> 2.Play ESP, SDK Ipad, 120 FPS For Rank Push <
 
-Global = Play New Account
-
+Global = 10M Ban Started
 Korea = Play New Account
-
 Taiwan = Play New Account
-
 Vietnam = Play New Account
-
-BGMI = Play New Account
+BGMI = No Work
