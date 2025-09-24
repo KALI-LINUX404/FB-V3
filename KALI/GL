@@ -1,12 +1,12 @@
 [DLLBYPASSCONFIG]
 BGMI = false
 BgmiBrutal = false
-GLB = false
+GLB = true
 KOR = false
 TWN = false
 VNG = false
 GAGA = false
-LOOP7 = false
+LOOP7 = true
 LOOP4 = false
 Flash = false
 NOHEAD = false
@@ -16,6 +16,7 @@ SLOWMOW = false
 IPAD = true
 
 SRCUP = false
+
 
 
 
