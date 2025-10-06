@@ -2,7 +2,7 @@
 BGMI = false
 BgmiBrutal = false
 GLB = false
-KOR = false
+KOR = true
 TWN = false
 VNG = false
 GAGA = false
@@ -16,6 +16,7 @@ SLOWMOW = false
 IPAD = false
 
 SRCUP = false
+
 
 
 
