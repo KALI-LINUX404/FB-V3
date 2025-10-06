@@ -1,7 +1,7 @@
 [DLLBYPASSCONFIG]
 BGMI = false
 BgmiBrutal = false
-GLB = true
+GLB = false
 KOR = false
 TWN = false
 VNG = false
@@ -13,9 +13,10 @@ NOHEAD = false
 NORECOIL = false
 device = false
 SLOWMOW = false
-IPAD = true
+IPAD = false
 
 SRCUP = false
+
 
 
 
