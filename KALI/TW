@@ -3,7 +3,7 @@ BGMI = false
 BgmiBrutal = false
 GLB = false
 KOR = false
-TWN = true
+TWN = false
 VNG = false
 GAGA = false
 LOOP7 = true
@@ -13,9 +13,10 @@ NOHEAD = false
 NORECOIL = false
 device = false
 SLOWMOW = false
-IPAD = true
+IPAD = false
 
 SRCUP = false
+
 
 
 
