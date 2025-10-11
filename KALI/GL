@@ -6,7 +6,7 @@ KOR = false
 TWN = false
 VNG = false
 GAGA = false
-LOOP7 = true
+LOOP7 = false
 LOOP4 = false
 Flash = false
 NOHEAD = false
@@ -16,6 +16,7 @@ SLOWMOW = false
 IPAD = false
 SRCUP = false
 BYPASS = true
+
 
 
 
