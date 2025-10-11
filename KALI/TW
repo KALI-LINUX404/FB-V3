@@ -1,4 +1,4 @@
-[DLLBYPASSCONFIG]
+[CERBERUS]
 BGMI = false
 BgmiBrutal = false
 GLB = false
@@ -6,7 +6,7 @@ KOR = false
 TWN = true
 VNG = false
 GAGA = false
-LOOP7 = true
+LOOP7 = false
 LOOP4 = false
 Flash = false
 NOHEAD = false
@@ -14,8 +14,9 @@ NORECOIL = false
 device = false
 SLOWMOW = false
 IPAD = false
-
 SRCUP = false
+BYPASS = true
+
 
 
 
