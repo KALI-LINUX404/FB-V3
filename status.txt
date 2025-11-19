@@ -2,7 +2,7 @@
 > 2.Play ESP, SDK Ipad, 120 FPS For Rank Push <
 > 3.Before Start Play Guest Reset Use Once In Day <
 
-Global = SAFE
+Global = PLAY FAKE { GIVE RESULT }
 
 Korea = SAFE
 
