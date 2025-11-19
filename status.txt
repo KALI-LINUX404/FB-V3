@@ -1,8 +1,11 @@
-> 1.Anti Cheat Not Stable Push Conquer Fake Account <
+> 1.Magic & Aimbot High Risk <
 > 2.Play ESP, SDK Ipad, 120 FPS For Rank Push <
+> 3.Before Start Play Guest Reset Use Once In Day <
 
-Global = Play Test Account
-Korea = Play Test Account
-Taiwan = Play Test Account
-Vietnam = Play Test Account
-BGMI = Play Test Account
+Global = SAFE
+
+Korea = SAFE
+
+Taiwan = SAFE
+
+Vietnam = SAFE
