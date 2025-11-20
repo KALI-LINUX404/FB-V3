@@ -1,8 +1,7 @@
 > 1.Magic & Aimbot High Risk <
-> 2.Play ESP, SDK Ipad, 120 FPS For Rank Push <
-> 3.Before Start Play Guest Reset Use Once In Day <
+> 2.Before Start Play Guest Reset Use Once In Day <
 
-Global = PLAY FAKE { GIVE RESULT }
+Global = SAFE
 
 Korea = SAFE
 
