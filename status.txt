@@ -1,10 +1,13 @@
 > 1.Magic & Aimbot High Risk <
-> 2.Before Start Play Guest Reset Use Once In Day <
+> 2.Test Version Play Fake Id <
+> 3.Before Start Play Guest Reset Use Once In Day <
 
-Global = SAFE
+Global = Play Guest For 5 Match
 
-Korea = SAFE
+Korea = Play Guest For 5 Match
 
-Taiwan = SAFE
+Taiwan = Play Guest For 5 Match
 
-Vietnam = SAFE
+Vietnam = Play Guest For 5 Match
+
+Bgmi = Play Guest For 5 Match
