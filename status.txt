@@ -1,5 +1,5 @@
 > 1.Magic & Aimbot High Risk <
-> 2.Test Version Play Fake Id <
+> 2.Bypass Version test Play Fake Id For 24H <
 > 3.Before Start Play Guest Reset Use Once In Day <
 
 Global = Play Guest For 5 Match
