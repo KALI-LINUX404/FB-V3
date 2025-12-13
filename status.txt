@@ -1,13 +1,12 @@
 > 1.Magic & Aimbot High Risk <
-> 2.Bypass Version test Play Fake Id For 24H <
-> 3.Before Start Play Guest Reset Use Once In Day <
+> 2.Before Start Play Guest Reset Use Once In Day <
 
-Global = Play Guest For 5 Match
+Global = Problem Ban 10 Min Risk
 
-Korea = Play Guest For 5 Match
+Korea = Safe Phsh Rank
 
-Taiwan = Play Guest For 5 Match
+Taiwan = Safe Push Rank
 
-Vietnam = Play Guest For 5 Match
+Vietnam = Safe Push Rank
 
-Bgmi = Play Guest For 5 Match
+Vietnam = Safe Push RanK
