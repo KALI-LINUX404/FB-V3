@@ -1,12 +1,12 @@
 > 1.Magic & Aimbot High Risk <
 > 2.Before Start Play Guest Reset Use Once In Day <
 
-Global = Problem Ban 10 Min Risk
+Global = Play Fake Id
 
 Korea = Safe Phsh Rank
 
 Taiwan = Safe Push Rank
 
-Vietnam = Safe Push Rank
+Vietnam = Play Fake Id
 
-Vietnam = Safe Push RanK
+BGMI = Safe Push Rank
