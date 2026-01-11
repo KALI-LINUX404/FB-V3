@@ -1,12 +1,12 @@
 > 1.Magic & Aimbot High Risk <
 > 2.Before Start Play Guest Reset Use Once In Day <
 
-Global = Play Fake Id
+Global = Play New Account ( BP Update 10.1.2026 )
 
-Korea = Safe Phsh Rank
+Korea = Play New Account ( BP Update 10.1.2026 )
 
-Taiwan = Safe Push Rank
+Taiwan = Play New Account ( BP Update 10.1.2026 )
 
-Vietnam = Play Fake Id
+Vietnam = Play New Account ( BP Update 10.1.2026 )
 
-BGMI = Safe Push Rank
+BGMI = No Working ( BP No Update )
