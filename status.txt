@@ -2,10 +2,10 @@
 
 Global = Play Fake ID ( Random Ban )
 
-Korea = Play New Account ( BP Update 19.1.2026 )
+Korea = Play New Account ( BP Update 20.1.2026 )
 
-Taiwan = Play New Account ( BP Update 19.1.2026 )
+Taiwan = Play New Account ( BP Update 20.1.2026 )
 
-Vietnam = Play New Account ( BP Update 19.1.2026 )
+Vietnam = Play New Account ( BP Update 20.1.2026 )
 
 BGMI = No Working ( BP No Update )
