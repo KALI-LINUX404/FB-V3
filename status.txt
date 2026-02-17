@@ -1,11 +1,9 @@
 > 1.Magic & Aimbot High Risk <
 
-Global = Play Fake ID ( Random Ban )
+Global = 10 - 30 Min Ban
 
-Korea = Play New Account ( BP Update 20.1.2026 )
+Korea = Player New Account
 
-Taiwan = Play New Account ( BP Update 20.1.2026 )
+Taiwan = SAFE
 
-Vietnam = Play New Account ( BP Update 20.1.2026 )
-
-BGMI = No Working ( BP No Update )
+Vietnam = SAFE
