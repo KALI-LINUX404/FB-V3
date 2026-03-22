@@ -1,9 +1,9 @@
 > 1.Magic & Aimbot High Risk <
 
-Global = 10 - 30 Min Ban
+Global = Play New Id
 
-Korea = Player New Account
+Korea = Play New Id
 
-Taiwan = SAFE
+Taiwan = Play New Id
 
-Vietnam = SAFE
+Vietnam = Play New Id
