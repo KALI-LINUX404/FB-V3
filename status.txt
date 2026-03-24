@@ -4,6 +4,6 @@ Global = Play New Id
 
 Korea = Play New Id
 
-Taiwan = Play New Id
+Taiwan = Safe
 
-Vietnam = Play New Id
+Vietnam = Safe
