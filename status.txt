@@ -1,6 +1,6 @@
 > 1.Magic & Aimbot High Risk <
 
-Global = Safe
+Global = 10 Min Ban
 
 Korea = Safe
 
