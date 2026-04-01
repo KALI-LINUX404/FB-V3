@@ -1,8 +1,8 @@
 > 1.Magic & Aimbot High Risk <
 
-Global = Play New Id
+Global = Safe
 
-Korea = Play New Id
+Korea = Safe
 
 Taiwan = Safe
 
