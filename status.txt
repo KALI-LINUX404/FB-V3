@@ -1,9 +1,9 @@
 > 1.Magic & Aimbot High Risk <
 
-Global = 10 Min Ban
+Global = Risk Main Id
 
-Korea = Safe
+Korea = Safe Push Rank
 
-Taiwan = Safe
+Taiwan = Safe Push Rank
 
-Vietnam = Safe
+Vietnam = Safe Push Rank
