@@ -1,6 +1,6 @@
 > 1.Magic & Aimbot High Risk <
 
-Global = Risk Main Id
+Global = Test Version (19/04/2026)
 
 Korea = Safe Push Rank
 
