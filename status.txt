@@ -1,6 +1,7 @@
+> Date : 15/05/2026 - V 4.4  <
 > 1.Magic & Aimbot High Risk <
 
-Global = Test Version (19/04/2026)
+Global = Safe Push Rank
 
 Korea = Safe Push Rank
 
