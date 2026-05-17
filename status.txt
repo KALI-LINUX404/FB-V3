@@ -7,4 +7,4 @@ Korea = Safe Push Rank
 
 Taiwan = Safe Push Rank
 
-Vietnam = Safe Push Rank
+Vietnam = Update 60%
