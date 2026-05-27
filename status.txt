@@ -1,4 +1,4 @@
-> Update : 18/05/2026 - V4.4 <
+> Update : 27/05/2026 - V4.4 <
 > 1.Magic & Aimbot High Risk <
 
 Global = Safe Push Rank
@@ -7,4 +7,4 @@ Korea = Safe Push Rank
 
 Taiwan = Safe Push Rank
 
-Vietnam = Update 70%
+Vietnam = Play Fake Account Make Sure Safety 
