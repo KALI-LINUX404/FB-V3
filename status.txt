@@ -1,10 +1,6 @@
-> Update : 30/05/2026 - V4.4 <
-> 1.Magic & Aimbot High Risk <
-
-Global = Safe Push Rank
-
-Korea = Safe Push Rank
-
-Taiwan = Safe Push Rank
-
-Vietnam = Safe Push Rank
+WELCOME TO PG BYPASS V.4.5.0
+Bypass Successfully Enjoy
+GLOBAL = SAFE
+KOREA = SAFE
+TAIWAN = TESTING
+VIETNAM = TESTING
